@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 😼 Welcome fella
 <div style="display: inline_block"><br>
-  <img align="left" height="150" style="border-radius:50px;" src="https://i.kym-cdn.com/photos/images/masonry/001/666/962/153.jpg?width=676&height=676">
+  <img align="left" height="160" style="border-radius:50px;" src="https://i.kym-cdn.com/photos/images/masonry/001/666/962/153.jpg?width=676&height=676">
 </div>
 
 My name is Geovanni Corrêa and I am a technology enthusiast and cybersecurity professional.
@@ -27,8 +27,8 @@ My interests range from technology to coffee. I am also interested in games, rea
 
 <div align="center">
   <a href="https://github.com/geozin">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=geozin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geozin&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=geozin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geozin&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ## ⚔️ Skills
