@@ -17,9 +17,9 @@ Here are some ideas to get you started:
   <img align="left" height="160" style="border-radius:50px;" src="https://i.kym-cdn.com/photos/images/masonry/001/666/962/153.jpg?width=676&height=676">
 </div>
 
-My name is Geovanni Corrêa and I am a technology enthusiast and cybersecurity professional.
+My name is Geovanni Corrêa and I am a technology enthusiast and cyber security professional.
 
-Cyber Security Offensive Analyst with knowledge in the main activities of RedTeam, with emphasis on Pentest, Web, API, Infrastructure, and Mobile(Android), I also performed phishing campaigns, besides enjoying automation in Bash or Python.
+Cyber security offensive analyst with knowledge in the main activities of RedTeam, with emphasis on Pentest, Web, API, Infrastructure, and Mobile(Android), I also performed phishing campaigns, besides enjoying automation in Bash or Python.
 
 My interests range from technology to coffee. I am also interested in games, reading, movies, programming, and everything that involves Cybersecurity and the hacking world in general.
 
