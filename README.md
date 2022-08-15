@@ -63,7 +63,7 @@ My interests range from technology to coffee. I am also interested in games, rea
 <a href="https://discord.gg/8H5bxN8jp8" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/hackingforce.png" target="_blank"></a> 
 </div>
 
-## ☕ Coffee?
+## ☕ Coffee or Gaming?
 <div> 
  <a href="https://steamcommunity.com/id/GeoZIN" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
   <a href = "mailto:geovanni.correa@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
