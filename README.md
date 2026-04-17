@@ -44,7 +44,7 @@ My interests range from technology to coffee. I am also interested in games, rea
 ## 🏆 Achievements
 
 <ul>
-  <li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-27147" target="_blank">😼 CVE-2025-27147</a></li>
+  <li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-27147" target="_blank">CVE-2025-27147</a></li>
   <li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-36568" target="_blank">CVE-2021-36568</a></li>
   <li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2222" target="_blank">CVE-2022-2222</a></li>
   <li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2546" target="_blank">CVE-2022-2546</a></li>
