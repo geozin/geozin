@@ -23,15 +23,8 @@ Cyber security offensive analyst with knowledge in the main activities of RedTea
 
 My interests range from technology to coffee. I am also interested in games, reading, movies, programming, and everything that involves Cybersecurity and the hacking world in general.
 
-## 📉 Stats
-
-<div align="center">
-  <a href="https://github.com/geozin">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=geozin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geozin&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
 ## ⚔️ Skills
+
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
@@ -50,21 +43,15 @@ My interests range from technology to coffee. I am also interested in games, rea
   
 ## 🏆 Achievements
 
-<div>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-36568" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/CVE-2021-36568.png" target="_blank"></a> 
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2222" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/CVE-2022-2222.png" target="_blank"></a> 
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2546" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/CVE-2022-2546.png" target="_blank"></a>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2654" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/CVE-2022-2654.png" target="_blank"></a> 
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2655" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/CVE-2022-2655.png" target="_blank"></a> 
-</div>
+<ul>
+  <li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-27147" target="_blank">😼 CVE-2025-27147</a></li>
+  <li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-36568" target="_blank">CVE-2021-36568</a></li>
+  <li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2222" target="_blank">CVE-2022-2222</a></li>
+  <li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2546" target="_blank">CVE-2022-2546</a></li>
+  <li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2654" target="_blank">CVE-2022-2654</a></li>
+  <li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2655" target="_blank">CVE-2022-2655</a></li>
+</ul>
   
-
-  
-  ## 🌎 Communities
-<div>
-<a href="https://discord.gg/bgnNQdbr9R" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/harddisk.png" target="_blank"></a> 
-<a href="https://discord.gg/8H5bxN8jp8" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/hackingforce.png" target="_blank"></a> 
-</div>
 
 ## ☕ Coffee or Gaming?
 <div> 
